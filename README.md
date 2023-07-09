@@ -1,2 +1,3 @@
-# solidityvarios
-Pruebas con Solidity sobre Ethereum
+# Repositorio solidityvarios
+
+Proyectos piloto en Solidity sobre red Ethereum (blockchain)
